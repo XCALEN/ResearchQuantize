@@ -1,0 +1,7 @@
+{
+    "default_query_limit": 10,
+    "default_source": "arxiv",
+    "default_year_filter": null,
+    "theme": "dark",
+    "show_advanced_options": false
+}
