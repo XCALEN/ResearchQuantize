@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="ResearchQuantize",
     version="0.1A",
-    author="Arcoson",
+    author="XCALEN",
     author_email="hylendust@gmail.com",
     description="A command-line tool to aggregate and search research papers from multiple sources.",
     long_description=long_description,
