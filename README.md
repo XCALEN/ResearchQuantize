@@ -16,7 +16,7 @@ It is easy to discover, filter, and save academic papers for your research needs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Arcoson/ResearchQuantize.git
+   git clone https://github.com/XCALEN/ResearchQuantize.git
    cd ResearchQuantize
    ```
 2. Create and activate a virtual environment:
